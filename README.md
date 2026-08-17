@@ -26,7 +26,7 @@
 <!-- Your Climbing Image -->
 <img src="PASTE_YOUR_IMAGE_LINK_HERE.jpg" alt="Climbing Mount Sembrano" width="800">
 
-<br><br>
+<br><br></div>
 
 ---
 
@@ -61,10 +61,9 @@
 <br>
 
 ---
+<div>
 
 ### <p> "The view from the summit is best when you've engineered the climb."</p>
-
-
 
 </div>
 
