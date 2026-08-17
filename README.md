@@ -47,9 +47,9 @@
 <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="48" alt="FastAPI" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="48" alt="VSCode" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=json&theme=dark" height="48" alt="JSON" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/%20-242938?style=flat&logo=json&logoColor=white&v=2" height="48" width="48" alt="JSON" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/%20-242938?style=flat&logo=n8n&logoColor=FF6600" height="48" width="48" alt="n8n" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%20-242938?style=flat&logo=openai&logoColor=white" height="48" width="48" alt="OpenAI" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/%20-242938?style=flat&logo=openai&logoColor=white&v=2" height="48" width="48" alt="OpenAI" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/%20-242938?style=flat&logo=google-gemini&logoColor=8E75B2" height="48" width="48" alt="Gemini" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/%20-242938?style=flat&logo=huggingface&logoColor=FFD21E" height="48" width="48" alt="Hugging Face" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/%20-242938?style=flat&logo=langchain&logoColor=white" height="48" width="48" alt="LangChain" />
