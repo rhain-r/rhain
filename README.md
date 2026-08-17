@@ -34,25 +34,25 @@
 
 <div align="center">
 <!-- Tools and Tech Stack Badges -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" alt="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" alt="HTML" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" alt="CSS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="40" alt="SQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="40" width="40" alt="Kubernetes" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" alt="Java" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" alt="HTML" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" alt="CSS" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" alt="Python" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="40" alt="SQL" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="40" width="40" alt="Kubernetes" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
   <br>
-  <img src="https://cdn.simpleicons.org/github/white" height="40" width="40" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" width="40" alt="FastAPI" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="VSCode" />
-  <img src="https://cdn.simpleicons.org/n8n/FF6600" height="40" width="40" alt="n8n" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/json/white" height="40" width="40" alt="JSON" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/chatgpt.png" height="40" width="40" alt="OpenAI" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" width="40" alt="Gemini" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" width="40" alt="Hugging Face" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/white" height="40" width="40" alt="LangChain" />
+  <img src="https://cdn.simpleicons.org/github/white" height="40" width="40" alt="GitHub" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" width="40" alt="FastAPI" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="VSCode" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/FF6600" height="40" width="40" alt="n8n" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/json/white" height="40" width="40" alt="JSON" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/chatgpt.png" height="40" width="40" alt="OpenAI" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" width="40" alt="Gemini" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" width="40" alt="Hugging Face" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/white" height="40" width="40" alt="LangChain" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />
 <br><br>
 
 <p><b>ALSO IN THE BACKPACK</b>
