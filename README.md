@@ -33,30 +33,34 @@
 ## 🧗‍♀️ EXPEDITION GEAR
 
 <!-- Tools and Tech Stack Badges -->
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" width="40" alt="C++" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/java/007396" height="40" width="40" alt="Java" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" width="40" alt="HTML" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css3/1572B6" height="40" width="40" alt="CSS" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python/3776AB" height="40" width="40" alt="Python" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" width="40" alt="SQL" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="40" width="40" alt="Docker" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" width="40" alt="Kubernetes" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git/F05032" height="40" width="40" alt="Git" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/181717" height="40" width="40" alt="GitHub" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/fastapi/009688" height="40" width="40" alt="FastAPI" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" width="40" alt="VSCode" />
-<img src="https://cdn.simpleicons.org/n8n/FF6600" height="40" width="40" alt="n8n" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/json/000000" height="40" width="40" alt="JSON" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openai/412991" height="40" width="40" alt="OpenAI" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" width="40" alt="Gemini" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" width="40" alt="Hugging Face" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/langchain/121212" height="40" width="40" alt="LangChain" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" alt="Java" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" alt="HTML" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" alt="CSS" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" alt="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="40" alt="SQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="40" width="40" alt="Kubernetes" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/white" height="40" width="40" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" width="40" alt="FastAPI" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="VSCode" />
+  
+  <br><br>
+  
+  <!-- AI, Automation & Agentic Tools -->
+  <img src="https://cdn.simpleicons.org/n8n/FF6600" height="40" width="40" alt="n8n" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/json/white" height="40" width="40" alt="JSON" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/white" height="40" width="40" alt="OpenAI" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" width="40" alt="Gemini" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" width="40" alt="Hugging Face" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/white" height="40" width="40" alt="LangChain" />
 <br><br>
 
-<p><small><b>ALSO IN THE BACKPACK</b><br>
+ <small><p><b>ALSO IN THE BACKPACK</b><br>
   
 Agentic AI & ML · Llama Fundamentals · RAG Systems · Vector Databases · CrewAI · Computer Architecture · Data Visualization · Containerization & Orchestration · Groq API · GoHighLevel
-</small></p>
+</p></small>
 <br>
 
 ---
