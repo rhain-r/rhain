@@ -8,7 +8,7 @@
 
 <!-- Animated Climbing Quote -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3388FF&center=true&vCenter=true&width=800&lines=If+a+mountain+was+smooth%2C+you+wouldn't+be+able+to+climb+it." alt="Animated Quote">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3388FF&center=true&vCenter=true&width=800&lines=I+came%2C+I+saw%2C+I+conquered.">
 </a>
 
 <br>
