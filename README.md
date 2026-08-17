@@ -28,11 +28,29 @@
 
 <br><br>
 
+---
+
 ## 🧗‍♀️ EXPEDITION GEAR
 
 <!-- Tools and Tech Stack Badges -->
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AI/ML](https://img.shields.io/badge/AI%20Automation-000000?style=for-the-badge&logo=openai&logoColor=white)
+<img src="https://img.shields.io/badge/n8n-FF6600?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+<br><br>
+
+<p><b>ALSO IN THE BACKPACK</b><br>
+  Agentic AI & ML · Llama Fundamentals · RAG Systems · Vector Databases · CrewAI · Computer Architecture · Data Visualization · Containerization & Orchestration · Groq API · GoHighLevel
+  </p>
+
+  <br>
+
+---
+
+  <p><i>"The view from the summit is best when you've engineered the climb."</i></p>
+---
 
 </div>
+
