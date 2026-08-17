@@ -36,7 +36,7 @@ I'm a Lead AI Automation Engineer and Agentic AI/ML Engineer with a Computer Sci
 
 ## BEYOND THE MISSION
 
-Outside of coding, you'll usually find me on top of the mountain, diving below the sea, or exploring new places. Staying active helps me recharge and approach problems with a fresh perspective and well-being.
+Outside of coding, you'll usually find me on top of mountains, diving in the sea, exploring new places, or volunteering in underprivileged communities. Staying active helps me recharge, approach problems with a fresh perspective, and maintain a sense of well-being and empathy.
 
 ---
 
