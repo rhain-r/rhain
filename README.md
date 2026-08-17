@@ -33,24 +33,36 @@
 ## 🧗‍♀️ EXPEDITION GEAR
 
 <!-- Tools and Tech Stack Badges -->
-<img src="https://img.shields.io/badge/n8n-FF6600?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" width="40" alt="C++" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/java/007396" height="40" width="40" alt="Java" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" width="40" alt="HTML" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="40" width="40" alt="CSS" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/python/3776AB" height="40" width="40" alt="Python" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" width="40" alt="SQL" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="40" width="40" alt="Docker" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" width="40" alt="Kubernetes" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" height="40" width="40" alt="Git" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/181717" height="40" width="40" alt="GitHub" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="40" width="40" alt="FastAPI" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" width="40" alt="VSCode" />
+<img src="https://cdn.simpleicons.org/n8n/FF6600" height="40" width="40" alt="n8n" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/json/000000" height="40" width="40" alt="JSON" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openai/412991" height="40" width="40" alt="OpenAI" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" width="40" alt="Gemini" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" width="40" alt="Hugging Face" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/langchain/121212" height="40" width="40" alt="LangChain" />
 <br><br>
 
-<p><b>ALSO IN THE BACKPACK</b><br>
- #### Agentic AI & ML · Llama Fundamentals · RAG Systems · Vector Databases · CrewAI · Computer Architecture · Data Visualization · Containerization & Orchestration · Groq API · GoHighLevel
-  </p>
-
+<p><small><b>ALSO IN THE BACKPACK</b><br>
+  Agentic AI & ML · Llama Fundamentals · RAG Systems · Vector Databases · CrewAI · Computer Architecture · Data Visualization · Containerization & Orchestration · Groq API · GoHighLevel
+  </small></p>
   <br>
 
 ---
 
-  <p> ## "The view from the summit is best when you've engineered the climb."</p>
----
+  <p> "The view from the summit is best when you've engineered the climb."</p>
+
+
 
 </div>
 
