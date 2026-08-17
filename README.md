@@ -32,7 +32,7 @@
 
 ## EXPEDITION GEAR
 
-<div>
+<div align="center">
 <!-- Tools and Tech Stack Badges -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" alt="Java" />&nbsp;&nbsp;
