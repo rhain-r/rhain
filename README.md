@@ -30,7 +30,7 @@
 
 ---
 
-## 🧗‍♀️ EXPEDITION GEAR
+# EXPEDITION GEAR
 
 <!-- Tools and Tech Stack Badges -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" />&nbsp;&nbsp;
@@ -42,20 +42,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="40" width="40" alt="Kubernetes" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git" />&nbsp;&nbsp;
+  <br>
   <img src="https://cdn.simpleicons.org/github/white" height="40" width="40" alt="GitHub" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" width="40" alt="FastAPI" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="VSCode" />
-  <br>
   <img src="https://cdn.simpleicons.org/n8n/FF6600" height="40" width="40" alt="n8n" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/json/white" height="40" width="40" alt="JSON" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/white" height="40" width="40" alt="OpenAI" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/chatgpt.png" height="40" width="40" alt="OpenAI" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" width="40" alt="Gemini" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" width="40" alt="Hugging Face" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/langchain/white" height="40" width="40" alt="LangChain" />
 <br><br>
 
-<p><b>ALSO IN THE BACKPACK</b><br>
-  
+<p><b>ALSO IN THE BACKPACK</b>
   <sub> Agentic AI & ML · Llama Fundamentals · RAG Systems · Vector Databases · CrewAI · Computer Architecture · Data Visualization · Containerization & Orchestration · Groq API · GoHighLevel
   </sub></p>
 <br>
