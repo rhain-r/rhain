@@ -24,23 +24,23 @@
 <br><br>
 
 <!-- Your Climbing Image -->
-<img width="100%" height="267" alt="giphy" src="https://github.com/user-attachments/assets/6a231987-4da9-4662-9f85-771176643aa0" />
+<img width="100%" height="300" alt="giphy" src="https://github.com/user-attachments/assets/6a231987-4da9-4662-9f85-771176643aa0" />
 
 ---
 </div>
 
-## THE BASECAMP
+## THE COMPOUND
 
 I'm a Lead AI Automation Engineer and Agentic AI/ML Engineer with a Computer Science background that shaped how I approach building autonomous agents and automated data pipelines. Whether I'm deploying infrastructure or architecting intelligent systems, I focus on engineering clean, scalable solutions that last.
 
 
-## THE EXPEDITION
+## BEYOND THE MISSION
 
 Outside of coding, you'll usually find me on top of the mountain, diving below the sea, or exploring new places. Staying active helps me recharge and approach problems with a fresh perspective and well-being.
 
 ---
 
-## EXPEDITION GEAR
+## ARSENAL
 
 <div align="center">
 <!-- Tools and Tech Stack Badges -->
@@ -65,7 +65,7 @@ Outside of coding, you'll usually find me on top of the mountain, diving below t
   <img src="https://img.shields.io/badge/%20-242938?style=flat&logo=langchain&logoColor=white" height="48" width="48" alt="LangChain" />
   <br><br>
 
-<p><b>ALSO IN THE BACKPACK</b>
+<p><b>ALSO IN THE MULTIVERSE</b>
   
   <sub> Agentic AI & ML · Llama Fundamentals · RAG Systems · Vector Databases · CrewAI · Computer Architecture · Data Visualization · Containerization & Orchestration · Groq API · GoHighLevel
   </sub></p>
@@ -75,7 +75,7 @@ Outside of coding, you'll usually find me on top of the mountain, diving below t
 
 ### <p><i> "Wakanda Forever"</i>
 
-<img width="100%" height="400" alt="giphy" src="https://github.com/user-attachments/assets/8611986c-4431-42b6-b540-581daa8667ac" />
+<img width="100%" height="300" alt="giphy" src="https://github.com/user-attachments/assets/8611986c-4431-42b6-b540-581daa8667ac" />
 </p>
 
 </div>
