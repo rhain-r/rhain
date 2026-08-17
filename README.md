@@ -75,6 +75,8 @@ Outside of coding, you'll usually find me on top of the mountain, diving below t
 
 ### <p><i> "Wakanda Forever"</i>
 
+---
+
 <img width="100%" height="300" alt="giphy" src="https://github.com/user-attachments/assets/8611986c-4431-42b6-b540-581daa8667ac" />
 </p>
 
