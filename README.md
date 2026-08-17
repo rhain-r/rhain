@@ -34,25 +34,25 @@
 
 <div align="center">
 <!-- Tools and Tech Stack Badges -->
-<img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=cplusplus&logoColor=white" height="40" alt="C++" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=java&logoColor=white" height="40" alt="Java" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=html5&logoColor=white" height="40" alt="HTML" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=css3&logoColor=white" height="40" alt="CSS" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=python&logoColor=white" height="40" alt="Python" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=mysql&logoColor=white" height="40" alt="SQL" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=docker&logoColor=white" height="40" alt="Docker" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=kubernetes&logoColor=white" height="40" alt="Kubernetes" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=git&logoColor=white" height="40" alt="Git" />&nbsp;
-  <br>
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=github&logoColor=white" height="40" alt="GitHub" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=fastapi&logoColor=white" height="40" alt="FastAPI" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=visualstudiocode&logoColor=white" height="40" alt="VSCode" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=n8n&logoColor=FF6600" height="40" alt="n8n" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=json&logoColor=white" height="40" alt="JSON" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=openai&logoColor=white" height="40" alt="OpenAI" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=googlegemini&logoColor=8E75B2" height="40" alt="Gemini" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=huggingface&logoColor=FFD21E" height="40" alt="Hugging Face" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=langchain&logoColor=white" height="40" alt="LangChain" />
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="48" alt="C++" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="48" alt="Java" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="48" alt="HTML" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="48" alt="CSS" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" height="48" alt="Python" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48" alt="SQL" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" alt="Docker" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="48" alt="Kubernetes" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" alt="Git" />&nbsp;&nbsp;
+<br>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="48" alt="FastAPI" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="48" alt="VSCode" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=json&theme=dark" height="48" alt="JSON" />
+  <img src="https://img.shields.io/badge/-%20%20%20%20-242938?style=flat&logo=n8n&logoColor=FF6600" height="48" alt="n8n" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-%20%20%20%20-242938?style=flat&logo=openai&logoColor=white" height="48" alt="OpenAI" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-%20%20%20%20-242938?style=flat&logo=google-gemini&logoColor=8E75B2" height="48" alt="Gemini" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-%20%20%20%20-242938?style=flat&logo=huggingface&logoColor=FFD21E" height="48" alt="Hugging Face" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-%20%20%20%20-242938?style=flat&logo=langchain&logoColor=white" height="48" alt="LangChain" />
 <br><br>
 
 <p><b>ALSO IN THE BACKPACK</b>
@@ -63,7 +63,7 @@
 
 ---
 
-### <p> "The view from the summit is best when you've engineered the climb."</p>
+### <p> "If a mountain was smooth, you wouldn't be able to climb it"</p>
 
 </div>
 
