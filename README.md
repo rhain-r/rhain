@@ -42,14 +42,14 @@
 <br><br>
 
 <p><b>ALSO IN THE BACKPACK</b><br>
-  Agentic AI & ML · Llama Fundamentals · RAG Systems · Vector Databases · CrewAI · Computer Architecture · Data Visualization · Containerization & Orchestration · Groq API · GoHighLevel
-  </p>
+ <i> Agentic AI & ML · Llama Fundamentals · RAG Systems · Vector Databases · CrewAI · Computer Architecture · Data Visualization · Containerization & Orchestration · Groq API · GoHighLevel
+  </i></p>
 
   <br>
 
 ---
 
-  <p><i>"The view from the summit is best when you've engineered the climb."</i></p>
+  <p>"The view from the summit is best when you've engineered the climb."</p>
 ---
 
 </div>
