@@ -30,7 +30,7 @@
 
 ---
 
-# EXPEDITION GEAR
+## EXPEDITION GEAR
 
 <!-- Tools and Tech Stack Badges -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" />&nbsp;&nbsp;
@@ -55,6 +55,7 @@
 <br><br>
 
 <p><b>ALSO IN THE BACKPACK</b>
+  
   <sub> Agentic AI & ML · Llama Fundamentals · RAG Systems · Vector Databases · CrewAI · Computer Architecture · Data Visualization · Containerization & Orchestration · Groq API · GoHighLevel
   </sub></p>
 <br>
