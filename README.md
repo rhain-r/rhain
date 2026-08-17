@@ -34,25 +34,25 @@
 
 <div align="center">
 <!-- Tools and Tech Stack Badges -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" alt="Java" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" alt="HTML" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" alt="CSS" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" alt="Python" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="40" alt="SQL" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="40" width="40" alt="Kubernetes" style="background-color: #1C2128; padding: 10px; border-radius: 12px;"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
-<br>
-<img src="https://cdn.simpleicons.org/github/white" height="40" width="40" alt="GitHub" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" width="40" alt="FastAPI" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="VSCode" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/n8n/FF6600" height="40" width="40" alt="n8n" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/json/white" height="40" width="40" alt="JSON" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
-<img src="https://img.icons8.com/ios-filled/50/FFFFFF/chatgpt.png" height="40" width="40" alt="OpenAI" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" width="40" alt="Gemini" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" width="40" alt="Hugging Face" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/langchain/white" height="40" width="40" alt="LangChain" style="background-color: #1C2128; padding: 10px; border-radius: 12px;" />
+<img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=cplusplus&logoColor=white" height="40" alt="C++" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=java&logoColor=white" height="40" alt="Java" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=html5&logoColor=white" height="40" alt="HTML" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=css3&logoColor=white" height="40" alt="CSS" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=python&logoColor=white" height="40" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=mysql&logoColor=white" height="40" alt="SQL" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=docker&logoColor=white" height="40" alt="Docker" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=kubernetes&logoColor=white" height="40" alt="Kubernetes" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=git&logoColor=white" height="40" alt="Git" />&nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=github&logoColor=white" height="40" alt="GitHub" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=fastapi&logoColor=white" height="40" alt="FastAPI" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=visualstudiocode&logoColor=white" height="40" alt="VSCode" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=n8n&logoColor=FF6600" height="40" alt="n8n" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=json&logoColor=white" height="40" alt="JSON" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=openai&logoColor=white" height="40" alt="OpenAI" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=googlegemini&logoColor=8E75B2" height="40" alt="Gemini" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=huggingface&logoColor=FFD21E" height="40" alt="Hugging Face" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-333333?style=flat&logo=langchain&logoColor=white" height="40" alt="LangChain" />
 <br><br>
 
 <p><b>ALSO IN THE BACKPACK</b>
