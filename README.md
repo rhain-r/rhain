@@ -8,7 +8,7 @@
 
 <!-- Animated Climbing Quote -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3388FF&center=true&vCenter=true&width=800&lines=Avengers . . .  Assemble">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3388FF&center=true&vCenter=true&width=800&lines=Avengers+.+.+.+Assemble!">
 </a>
 
 <br>
@@ -77,8 +77,8 @@ Outside of coding, you'll usually find me on top of the mountain, diving below t
 
 ### <p> "Wakanda Forever"
 
-<img width="100%" height="267" alt="giphy" src="https://github.com/user-attachments/assets/8611986c-4431-42b6-b540-581daa8667ac" />
-"</p>
+<img width="100%" height="500" alt="giphy" src="https://github.com/user-attachments/assets/8611986c-4431-42b6-b540-581daa8667ac" />
+</p>
 
 </div>
 
