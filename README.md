@@ -15,10 +15,10 @@
 
 <!-- Clickable Social & Contact Badges -->
 <a href="https://linkedin.com/in/rhain-rivera">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:rhainrivera415@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
@@ -54,13 +54,14 @@
 <br><br>
 
 <p><small><b>ALSO IN THE BACKPACK</b><br>
-  Agentic AI & ML · Llama Fundamentals · RAG Systems · Vector Databases · CrewAI · Computer Architecture · Data Visualization · Containerization & Orchestration · Groq API · GoHighLevel
-  </small></p>
-  <br>
+  
+Agentic AI & ML · Llama Fundamentals · RAG Systems · Vector Databases · CrewAI · Computer Architecture · Data Visualization · Containerization & Orchestration · Groq API · GoHighLevel
+</small></p>
+<br>
 
 ---
 
-  <p> "The view from the summit is best when you've engineered the climb."</p>
+<p> "The view from the summit is best when you've engineered the climb."</p>
 
 
 
