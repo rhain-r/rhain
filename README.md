@@ -24,7 +24,7 @@
 <br><br>
 
 <!-- Your Climbing Image -->
-<img src="PASTE_YOUR_IMAGE_LINK_HERE.jpg" alt="Climbing Mount Sembrano" width="800">
+<img width="600" height="600" alt="giphy" src="https://github.com/user-attachments/assets/2e69e99e-4c1b-4b82-9edb-c5e21cf395d5" />
 
 <br><br></div>
 ---
