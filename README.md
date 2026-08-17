@@ -61,7 +61,7 @@ Agentic AI & ML · Llama Fundamentals · RAG Systems · Vector Databases · Crew
 
 ---
 
-<p> "The view from the summit is best when you've engineered the climb."</p>
+### <p> "The view from the summit is best when you've engineered the climb."</p>
 
 
 
