@@ -30,7 +30,7 @@
 
 <br><br></div>
 
----
+
 ## THE BASECAMP
 
 I'm a Lead AI Automation Engineer and Agentic AI/ML Engineer with a Computer Science background that shaped how I approach building autonomous agents and automated data pipelines. Whether I'm deploying infrastructure or architecting intelligent systems, I focus on engineering clean, scalable solutions that last.
