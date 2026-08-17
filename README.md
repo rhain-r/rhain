@@ -8,7 +8,7 @@
 
 <!-- Animated Climbing Quote -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3388FF&center=true&vCenter=true&width=800&lines=We+are+Groot">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3388FF&center=true&vCenter=true&width=800&lines=Avengers . . .  Assemble">
 </a>
 
 <br>
@@ -24,7 +24,7 @@
 <br><br>
 
 <!-- Your Climbing Image -->
-<img width="500" height="267" alt="giphy" src="https://github.com/user-attachments/assets/6a231987-4da9-4662-9f85-771176643aa0" />
+<img width="100%" height="267" alt="giphy" src="https://github.com/user-attachments/assets/6a231987-4da9-4662-9f85-771176643aa0" />
 
 
 
@@ -75,9 +75,9 @@ Outside of coding, you'll usually find me on top of the mountain, diving below t
 
 ---
 
-### <p> "Wakanda Forever
+### <p> "Wakanda Forever"
 
-<img width="500" height="267" alt="giphy" src="https://github.com/user-attachments/assets/8611986c-4431-42b6-b540-581daa8667ac" />
+<img width="100%" height="267" alt="giphy" src="https://github.com/user-attachments/assets/8611986c-4431-42b6-b540-581daa8667ac" />
 "</p>
 
 </div>
